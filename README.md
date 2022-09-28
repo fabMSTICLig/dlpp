@@ -1,6 +1,6 @@
 # Dynamic Low Power Payload
 
-This library is an attempt to implement a dynamic version of LPP.
+This library is an attempt to implement a dynamic version of LPP for [RIOT-OS](https://github.com/RIOT-OS/RIOT) project.
 
 ## Principle
 
