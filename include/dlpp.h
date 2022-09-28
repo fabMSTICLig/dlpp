@@ -1,3 +1,19 @@
+/*
+ * Copyright (C) 2022 LIG Laboratoire Informatique de Grenoble
+ *
+ * This file is subject to the terms and conditions of the GNU Lesser
+ * General Public License v2.1. See the file LICENSE in the top level
+ * directory for more details.
+ */
+
+/**
+ * @ingroup     dlpp
+ * @brief       Dynamic Low Power Payload
+ * @author      Germain Lemasson <germain.lemasson@univ-grenoble-alpes.fr>
+ * @file
+ * @{
+ */
+
 #ifndef DLPP_H
 #define DLPP_H
 
@@ -34,3 +50,4 @@ uint8_t dlpp_get_size(uint8_t * buffer);
 
 #endif /* DLPP_H */
 
+/** @} */

@@ -1,3 +1,22 @@
+/*
+ * Copyright (C) 2022 LIG Laboratoire Informatique de Grenoble
+ *
+ * This file is subject to the terms and conditions of the GNU Lesser
+ * General Public License v2.1. See the file LICENSE in the top level
+ * directory for more details.
+ */
+
+/**
+ * @ingroup     dlpp
+ * @{
+ * @file
+ * @brief       Dynamic Low Power Payload implementation
+ *
+ * @author      Germain Lemasson <germain.lemasson@univ-grenoble-alpes.fr>
+ * @}
+ */
+
+
 #include <stdarg.h>
 #include <stdint.h>
 
