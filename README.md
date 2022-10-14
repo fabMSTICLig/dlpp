@@ -26,9 +26,9 @@ Creating a byte array containing a set number of integers of a particular type
   - 1 int8
   - 2 int16
   - 4 int32
-- number : number of integer [1-7]
+- number : number of byte
 
-Number of data bytes N = sign*type
+Number of data bytes N = (number of integer)*type
 
 ## Usage
 ```
